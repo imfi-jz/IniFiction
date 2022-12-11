@@ -1,0 +1,11 @@
+-D warn
+-cp src
+
+nl.imfi_jz.file.ini.IniFile
+nl.imfi_jz.file.ini.Key
+nl.imfi_jz.file.ini.Section
+nl.imfi_jz.file.ini.TextContent
+nl.imfi_jz.file.ini.Logger
+
+# Add desired compile languages
+-cpp out\cppfds

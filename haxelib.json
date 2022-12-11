@@ -1,0 +1,11 @@
+{
+  "name": "IniFiction",
+  "url" : "https://github.com/imfi-jz/IniFiction",
+  "license": "MIT",
+  "tags": ["cross", "ini", "filesystem", "sys", "hl", "eval", "jvm", "php", "cpp", "lua", "cs", "python", "java", "flash", "neko"],
+  "description": "General purpose library for reading and writing ini files in an object oriented code style.",
+  "version": "0.1.0",
+  "classPath": "src/",
+  "releasenote": "Initial release. All unit tests pass.",
+  "contributors": ["imfi-jz"]
+}

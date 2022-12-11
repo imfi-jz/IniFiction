@@ -1,0 +1,11 @@
+--library utest
+
+-cp src
+-cp test
+-D analyzer-optimize
+-D warn
+-D inifiction-log
+-dce full
+-debug
+-main nl.imfi_jz.test.file.ini.Entry
+--interp
